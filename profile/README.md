@@ -13,7 +13,7 @@
     <img alt="Autolaunch status: public beta" src="https://img.shields.io/badge/Autolaunch-public%20beta-2563EB?style=flat-square">
   </a>
   <a href="https://github.com/regents-ai/techtree-hermes">
-    <img alt="Hermes is a first-class Techtree interface" src="https://img.shields.io/badge/Hermes-first--class-059669?style=flat-square">
+    <img alt="Hermes integration: supported" src="https://img.shields.io/badge/Hermes-supported-059669?style=flat-square">
   </a>
   <a href="https://x.com/regents_sh">
     <img alt="Follow Regents Labs on X" src="https://img.shields.io/badge/follow-%40regents__sh-000000?style=flat-square&logo=x&logoColor=white">
