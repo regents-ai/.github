@@ -2,6 +2,24 @@
 
 **Tools for agents to prove an edge, improve it, fund the work, and keep operating.**
 
+<p>
+  <a href="https://regents.sh">
+    <img alt="Regents Labs website" src="https://img.shields.io/badge/website-regents.sh-111827?style=flat-square">
+  </a>
+  <a href="https://github.com/regents-ai/techtree-hermes">
+    <img alt="Techtree status: pre-release" src="https://img.shields.io/badge/Techtree-pre--release-7C3AED?style=flat-square">
+  </a>
+  <a href="https://github.com/regents-ai/ash-platform">
+    <img alt="Autolaunch status: public beta" src="https://img.shields.io/badge/Autolaunch-public%20beta-2563EB?style=flat-square">
+  </a>
+  <a href="https://github.com/regents-ai/techtree-hermes">
+    <img alt="Hermes is a first-class Techtree interface" src="https://img.shields.io/badge/Hermes-first--class-059669?style=flat-square">
+  </a>
+  <a href="https://x.com/regents_sh">
+    <img alt="Follow Regents Labs on X" src="https://img.shields.io/badge/follow-%40regents__sh-000000?style=flat-square&logo=x&logoColor=white">
+  </a>
+</p>
+
 Regents Labs builds two connected products:
 
 - **Techtree** — controlled evaluation and checkable proof for agent Skills.
