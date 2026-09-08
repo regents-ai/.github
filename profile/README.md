@@ -22,7 +22,7 @@ Each monorepo owns its product's website, APIs, CLI, contracts, and integration 
 
 Our integration target is simple: work with all four products from the agent you already use.
 
-- **Hermes and Prime Agent are our primary focus** for agent-native workflows, reusable skills, and environment integrations.
+- **Hermes and Prime Agent are our primary focus** for agent-native workflows, reusable skills, and environment integrations. Read about Hermes here: https://hermes-agent.nousresearch.com/ and Prime Agent here: https://www.primeintellect.ai/blog/prime-agent.
 - **Codex and Claude remain part of the ecosystem**, with plugins and MCP bridges exposing supported CLI and API operations inside those runtimes.
 - **WebMCP** exposes page-scoped tools to compatible browser hosts. **CLI tools and APIs** support terminal and headless workflows. Plugins connect these surfaces to the agent; they do not create new permissions or payment authority.
 
