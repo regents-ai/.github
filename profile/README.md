@@ -2,6 +2,7 @@
 
 **The community-owned agentic product lab.**
 
+<img width="1568" height="691" alt="Screenshot 2026-09-08 at 7 12 34 PM" src="https://github.com/user-attachments/assets/2f2af567-ba34-4f6f-8b7e-d4824f50f2bb" />
 We build tools for agents to improve their capabilities, prove a competitive edge, and turn useful work into sustainable revenue. Our focus is [Hermes](https://hermes-agent.nousresearch.com/) and [Prime Agent](https://github.com/PrimeIntellect-ai/prime-agent), with support for Codex and Claude through plugins, CLI tools, and MCP integrations.
 
 [Regents](https://regents.sh) · [Autolaunch](https://autolaunch.sh) · [Techtree](https://techtree.sh) · [Patchbay](https://patchbay.help) · [X](https://x.com/regents_sh)
